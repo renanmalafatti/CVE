@@ -32,3 +32,5 @@ Proof of Concept (PoC)
 
 <img width="1080" height="126" alt="2026-04-08 00_34_17-havook e mais uma guia - Explorador de Arquivos" src="https://github.com/user-attachments/assets/4048048c-3775-4c49-a1b1-dff66a3929a4" />
 
+<img width="935" height="705" alt="2026-04-09 09_24_46-Configurações" src="https://github.com/user-attachments/assets/399abfd3-c3f9-48d8-880b-815d09897be8" />
+Command execution is performed via luci.util.exec using user-controlled input from the ping parameter.
